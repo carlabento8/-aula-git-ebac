@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Carla
+-Profissão: Analista de Qualidade de Software
+-Cidade: Osasco
+-O que faz nas horas vaga: Saio com meus amigos, durmo, assisto séries
+-Feedback sobre o curso Qualidade de Software: Está excelente
+-Feedback sobre a plataforma de estudo da EBAC: Pode melhorar alguns aspectos. Como visualização de notas por módulo
+
+Obrigado!!!
+
+
